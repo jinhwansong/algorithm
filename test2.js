@@ -1,4 +1,4 @@
-//1주일간 알고리즘 얼마나 풀어봣니 씨발새끼야
+//1주일간 알고리즘 얼마나 풀어봣니 
 
 function solution(arr1, arr2){
 	let answer=0;
