@@ -8,6 +8,10 @@ function solution(spend) {
         money %= coin
         console.log(count)
     }
+    //  coins.forEach(function (value) {
+    //      bill += Math.floor(money / value)
+    //      money = money % value
+    //  })
     //return count
 }
 console.log(solution(380,4))
